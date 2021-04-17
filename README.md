@@ -5,7 +5,7 @@
 </p>-->
 
 # Danilo Ferreira de Oliveira
-### <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
+#### <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
 
 Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica
 e programação. Atualmente fazendo Pós-Graduação (PUCRS) e cursos online (HarvardX, edX) de Data Science, em preparação para a
