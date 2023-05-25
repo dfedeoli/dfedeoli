@@ -4,12 +4,11 @@
 
 ## <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
 
-Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica
-e programação. Atualmente fazendo Pós-Graduação (PUCRS) e cursos online (HarvardX, edX) de Data Science, em preparação para a
-carreira de Cientista de Dados. Determinado a contribuir positivamente para a atual transformação digital, de forma
-que possamos viver uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira), [Currículo](https://drive.google.com/file/d/1bTnCSfwXT0VrejzRy66PNLolt2bNZNZG/view?usp=sharing)
+Atualmente trabalhando na ília. Experiência com construção de pipelines de dados usando serviços da AWS (S3, Lambda, Glue, Athena, API Gateway, Step Functions) e com construção de dashboards (Quicksight, Power BI, Apache Superset). Atuação com Notebooks Databricks, Bancos de dados relacionais (MySQL, PostgreSQL) e Pyspark.
 
-**Habilidades/Competências:** Python, R, MATLAB e Machine Learning.
+Em um momento tão delicado quanto à segurança e à privacidade de dados na internet, estou determinado a contribuir positivamente para esta constante transformação digital e possibilitar uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira), [Currículo](https://drive.google.com/file/d/1bTnCSfwXT0VrejzRy66PNLolt2bNZNZG/view?usp=sharing)
+
+**Habilidades/Competências:** Python, SQL, ETL e AWS.
 
 <!--
 **dfedeoli/dfedeoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
