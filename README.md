@@ -2,7 +2,7 @@
   <img src="banner.png" >
 </p>-->
 
-## <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
+## <sub>*Data Engineer | Analytics Engineer*</sub>
 
 Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica e programação. Pós-graduado em Ciência de Dados e Inteligência Artificial pela PUCRS e atualmente trabalhando na ília como Data Engineer/Analytics Engineer. Experiência com construção de pipelines de dados usando serviços da AWS (S3, Lambda, Glue, Athena, API Gateway, Step Functions) e com construção de dashboards (Quicksight, Power BI, Apache Superset). Atuação com Notebooks Databricks, Bancos de dados relacionais (MySQL, PostgreSQL) e Pyspark.
 
